@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1653310008" />
+    <testcase name="test_all" classname="test.test_frequency_counter" file="/home/akash/frequency_counter/test/test_frequency_counter.py" lineno="30" time="1.840658187866211" sim_time_ns="1200285.321" ratio_time="652095.7171257498" />
+  </testsuite>
+</testsuites>

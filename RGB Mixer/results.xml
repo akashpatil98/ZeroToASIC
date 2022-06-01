@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1652904476" />
+    <testcase name="test_perfect_encoder" classname="test.test_encoder" file="/home/akash/rgb_mixer/test/test_encoder.py" lineno="16" time="1.1404004096984863" sim_time_ns="51090001.0" ratio_time="44800054.93290539" />
+  </testsuite>
+</testsuites>
